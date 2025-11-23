@@ -149,10 +149,3 @@ Initially, the frontend faced `CORS` errors when making API requests to the back
 
 Deploying both the frontend and backend from the same repository required configuring the root directories separately in Vercel. Setting up the correct build and output settings for each deployment was crucial.
 
----
-
-## Interfaces
-
-## ![Login](./img/Login.jpeg "Login Page")
-
-## ![Task Manager Dashboard](./img/Dashboard.jpeg "Task Manager Home Page")
