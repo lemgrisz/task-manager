@@ -1,0 +1,16 @@
+{
+  "name": "task-management-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dev": "concurrently \"npm start --prefix frontend\" \"npm run dev --prefix backend\"",
+  "dependencies": {
+    "concurrently": "^9.1.1"
+  }
+}
